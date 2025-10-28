@@ -1,0 +1,38 @@
+[0.453s] Invoking command in '/home/ever/bibliobot_ws/src/line_follower': PYTHONPATH=/home/ever/bibliobot_ws/build/line_follower/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/ever/bibliobot_ws/install/line_follower/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/line_follower build --build-base /home/ever/bibliobot_ws/build/line_follower/build install --record /home/ever/bibliobot_ws/build/line_follower/install.log --single-version-externally-managed install_data
+[0.595s] running egg_info
+[0.595s] creating ../../build/line_follower/line_follower.egg-info
+[0.595s] writing ../../build/line_follower/line_follower.egg-info/PKG-INFO
+[0.595s] writing dependency_links to ../../build/line_follower/line_follower.egg-info/dependency_links.txt
+[0.595s] writing entry points to ../../build/line_follower/line_follower.egg-info/entry_points.txt
+[0.595s] writing requirements to ../../build/line_follower/line_follower.egg-info/requires.txt
+[0.595s] writing top-level names to ../../build/line_follower/line_follower.egg-info/top_level.txt
+[0.595s] writing manifest file '../../build/line_follower/line_follower.egg-info/SOURCES.txt'
+[0.597s] reading manifest file '../../build/line_follower/line_follower.egg-info/SOURCES.txt'
+[0.597s] adding license file 'LICENSE'
+[0.597s] writing manifest file '../../build/line_follower/line_follower.egg-info/SOURCES.txt'
+[0.597s] running build
+[0.597s] running build_py
+[0.597s] creating /home/ever/bibliobot_ws/build/line_follower/build
+[0.598s] creating /home/ever/bibliobot_ws/build/line_follower/build/lib
+[0.598s] creating /home/ever/bibliobot_ws/build/line_follower/build/lib/line_follower
+[0.598s] copying line_follower/my_node.py -> /home/ever/bibliobot_ws/build/line_follower/build/lib/line_follower
+[0.598s] copying line_follower/__init__.py -> /home/ever/bibliobot_ws/build/line_follower/build/lib/line_follower
+[0.598s] running install
+[0.598s] running install_lib
+[0.598s] creating /home/ever/bibliobot_ws/install/line_follower/lib/python3.10/site-packages/line_follower
+[0.598s] copying /home/ever/bibliobot_ws/build/line_follower/build/lib/line_follower/my_node.py -> /home/ever/bibliobot_ws/install/line_follower/lib/python3.10/site-packages/line_follower
+[0.598s] copying /home/ever/bibliobot_ws/build/line_follower/build/lib/line_follower/__init__.py -> /home/ever/bibliobot_ws/install/line_follower/lib/python3.10/site-packages/line_follower
+[0.599s] byte-compiling /home/ever/bibliobot_ws/install/line_follower/lib/python3.10/site-packages/line_follower/my_node.py to my_node.cpython-310.pyc
+[0.599s] byte-compiling /home/ever/bibliobot_ws/install/line_follower/lib/python3.10/site-packages/line_follower/__init__.py to __init__.cpython-310.pyc
+[0.599s] running install_data
+[0.599s] creating /home/ever/bibliobot_ws/install/line_follower/share/ament_index
+[0.599s] creating /home/ever/bibliobot_ws/install/line_follower/share/ament_index/resource_index
+[0.599s] creating /home/ever/bibliobot_ws/install/line_follower/share/ament_index/resource_index/packages
+[0.599s] copying resource/line_follower -> /home/ever/bibliobot_ws/install/line_follower/share/ament_index/resource_index/packages
+[0.599s] copying package.xml -> /home/ever/bibliobot_ws/install/line_follower/share/line_follower
+[0.599s] running install_egg_info
+[0.600s] Copying ../../build/line_follower/line_follower.egg-info to /home/ever/bibliobot_ws/install/line_follower/lib/python3.10/site-packages/line_follower-0.0.0-py3.10.egg-info
+[0.601s] running install_scripts
+[0.615s] Installing my_node script to /home/ever/bibliobot_ws/install/line_follower/lib/line_follower
+[0.615s] writing list of installed files to '/home/ever/bibliobot_ws/build/line_follower/install.log'
+[0.647s] Invoked command in '/home/ever/bibliobot_ws/src/line_follower' returned '0': PYTHONPATH=/home/ever/bibliobot_ws/build/line_follower/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/ever/bibliobot_ws/install/line_follower/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/line_follower build --build-base /home/ever/bibliobot_ws/build/line_follower/build install --record /home/ever/bibliobot_ws/build/line_follower/install.log --single-version-externally-managed install_data

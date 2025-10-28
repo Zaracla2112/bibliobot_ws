@@ -1,0 +1,17 @@
+[0.427s] Invoking command in '/home/ever/bibliobot_ws/build/line_follower': PYTHONPATH=/home/ever/bibliobot_ws/build/line_follower/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/ever/bibliobot_ws/install/line_follower/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/ever/bibliobot_ws/build/line_follower/build --no-deps symlink_data
+[0.579s] running develop
+[0.665s] running egg_info
+[0.665s] writing line_follower.egg-info/PKG-INFO
+[0.665s] writing dependency_links to line_follower.egg-info/dependency_links.txt
+[0.665s] writing entry points to line_follower.egg-info/entry_points.txt
+[0.665s] writing requirements to line_follower.egg-info/requires.txt
+[0.665s] writing top-level names to line_follower.egg-info/top_level.txt
+[0.666s] reading manifest file 'line_follower.egg-info/SOURCES.txt'
+[0.667s] writing manifest file 'line_follower.egg-info/SOURCES.txt'
+[0.668s] running build_ext
+[0.668s] Creating /home/ever/bibliobot_ws/install/line_follower/lib/python3.10/site-packages/line-follower.egg-link (link to .)
+[0.669s] Installing my_node script to /home/ever/bibliobot_ws/install/line_follower/lib/line_follower
+[0.669s] 
+[0.669s] Installed /home/ever/bibliobot_ws/build/line_follower
+[0.669s] running symlink_data
+[0.699s] Invoked command in '/home/ever/bibliobot_ws/build/line_follower' returned '0': PYTHONPATH=/home/ever/bibliobot_ws/build/line_follower/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/ever/bibliobot_ws/install/line_follower/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/ever/bibliobot_ws/build/line_follower/build --no-deps symlink_data

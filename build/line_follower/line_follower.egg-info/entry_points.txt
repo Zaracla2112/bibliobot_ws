@@ -1,0 +1,3 @@
+[console_scripts]
+my_node = line_follower.my_node:main
+
