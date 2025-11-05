@@ -1,0 +1,32 @@
+running egg_info
+creating ../../build/line_follower/line_follower.egg-info
+writing ../../build/line_follower/line_follower.egg-info/PKG-INFO
+writing dependency_links to ../../build/line_follower/line_follower.egg-info/dependency_links.txt
+writing entry points to ../../build/line_follower/line_follower.egg-info/entry_points.txt
+writing requirements to ../../build/line_follower/line_follower.egg-info/requires.txt
+writing top-level names to ../../build/line_follower/line_follower.egg-info/top_level.txt
+writing manifest file '../../build/line_follower/line_follower.egg-info/SOURCES.txt'
+reading manifest file '../../build/line_follower/line_follower.egg-info/SOURCES.txt'
+adding license file 'LICENSE'
+writing manifest file '../../build/line_follower/line_follower.egg-info/SOURCES.txt'
+running build
+running install
+running install_data
+creating /home/ever/bibliobot_ws/install/line_follower/share/ament_index
+creating /home/ever/bibliobot_ws/install/line_follower/share/ament_index/resource_index
+creating /home/ever/bibliobot_ws/install/line_follower/share/ament_index/resource_index/packages
+copying resource/line_follower -> /home/ever/bibliobot_ws/install/line_follower/share/ament_index/resource_index/packages
+copying package.xml -> /home/ever/bibliobot_ws/install/line_follower/share/line_follower
+creating /home/ever/bibliobot_ws/install/line_follower/share/line_follower/launch
+copying launch/launcher.py -> /home/ever/bibliobot_ws/install/line_follower/share/line_follower/launch
+running install_egg_info
+Copying ../../build/line_follower/line_follower.egg-info to /home/ever/bibliobot_ws/install/line_follower/lib/python3.10/site-packages/line_follower-0.0.0-py3.10.egg-info
+running install_scripts
+Installing inverse_kinematics script to /home/ever/bibliobot_ws/install/line_follower/lib/line_follower
+Installing lidar_reader script to /home/ever/bibliobot_ws/install/line_follower/lib/line_follower
+Installing line_PID script to /home/ever/bibliobot_ws/install/line_follower/lib/line_follower
+Installing prueba script to /home/ever/bibliobot_ws/install/line_follower/lib/line_follower
+Installing serial_controller script to /home/ever/bibliobot_ws/install/line_follower/lib/line_follower
+Installing vel_input script to /home/ever/bibliobot_ws/install/line_follower/lib/line_follower
+Installing wheel_velocity_PID script to /home/ever/bibliobot_ws/install/line_follower/lib/line_follower
+writing list of installed files to '/home/ever/bibliobot_ws/build/line_follower/install.log'
